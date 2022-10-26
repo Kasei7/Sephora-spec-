@@ -1,0 +1,1086 @@
+.menu-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .menu-case-studies-menu {
+    width: 100%;
+    height: 2341px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+    background-color: rgba(0, 0, 0, 1);
+  }
+  .menu-frame1 {
+    right: -10px;
+    width: 1346px;
+    bottom: -48px;
+    height: 100%;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 20px;
+    background-image: linear-gradient(180deg, rgba(209, 72, 54, 1) 0%, rgba(209, 72, 54, 0) 100%);
+  }
+  .menu-frame2 {
+    top: 95px;
+    left: 145px;
+    width: 1133px;
+    height: 1975px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+    box-sizing: content-box;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 1);
+  }
+  .menu-group2 {
+    top: 22px;
+    left: 33px;
+    width: 1034px;
+    height: 360px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-frame3 {
+    top: 0px;
+    left: 0px;
+    width: 1034px;
+    height: 360px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(143, 42, 20, 1);
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 40px 0 0 20px;
+  }
+  .menu-frame5 {
+    top: 230px;
+    left: 49px;
+    width: 73px;
+    height: 116px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .menu-frame4 {
+    top: 38px;
+    left: 125px;
+    width: 847px;
+    height: 250px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(143, 20, 20, 1);
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 40px 0 0 20px;
+  }
+  .menu-text {
+    top: 67px;
+    left: 98px;
+    color: rgba(255, 255, 255, 1);
+    width: 682px;
+    height: auto;
+    position: absolute;
+    font-size: 120px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lancelot;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .menu-group1 {
+    top: 569px;
+    left: 15px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-group4 {
+    top: 0px;
+    left: 0px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-group5 {
+    top: 0px;
+    left: 0px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-group6 {
+    top: 0px;
+    left: 0px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-frame31 {
+    top: 0px;
+    left: 0px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(143, 42, 20, 1);
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 40px 0 0 20px;
+  }
+  .menu-frame51 {
+    top: 230px;
+    left: 49px;
+    width: 73px;
+    height: 116px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .menu-frame41 {
+    top: 21.240966796875px;
+    left: 50.858154296875px;
+    width: 339.6606750488281px;
+    height: 158.07228088378906px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(143, 20, 20, 1);
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 40px 0 0 20px;
+  }
+  .menu-frame7 {
+    top: 8px;
+    left: 25px;
+    width: 291px;
+    display: flex;
+    padding: 10px;
+    position: absolute;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .menu-text03 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 60px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lancelot;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .menu-group3 {
+    top: 1043px;
+    left: 33px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-group41 {
+    top: 0px;
+    left: 0px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-group51 {
+    top: 0px;
+    left: 0px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-group61 {
+    top: 0px;
+    left: 0px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-frame32 {
+    top: 0px;
+    left: 0px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(143, 42, 20, 1);
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 40px 0 0 20px;
+  }
+  .menu-frame52 {
+    top: 230px;
+    left: 49px;
+    width: 73px;
+    height: 116px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .menu-frame42 {
+    top: 21.240966796875px;
+    left: 50.858154296875px;
+    width: 339.6606750488281px;
+    height: 158.07228088378906px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(143, 20, 20, 1);
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 40px 0 0 20px;
+  }
+  .menu-frame71 {
+    top: 8px;
+    left: 25px;
+    width: 246px;
+    display: flex;
+    padding: 10px;
+    position: absolute;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .menu-text08 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 60px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lancelot;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .menu-group42 {
+    top: 1517px;
+    left: 33px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-group43 {
+    top: 0px;
+    left: 0px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-group52 {
+    top: 0px;
+    left: 0px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-group62 {
+    top: 0px;
+    left: 0px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-frame33 {
+    top: 0px;
+    left: 0px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(143, 42, 20, 1);
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 40px 0 0 20px;
+  }
+  .menu-frame53 {
+    top: 230px;
+    left: 49px;
+    width: 73px;
+    height: 116px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .menu-frame43 {
+    top: 21.240966796875px;
+    left: 50.858154296875px;
+    width: 339.6606750488281px;
+    height: 158.07228088378906px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(143, 20, 20, 1);
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 40px 0 0 20px;
+  }
+  .menu-frame72 {
+    top: 8px;
+    left: 25px;
+    width: 318px;
+    display: flex;
+    padding: 10px;
+    position: absolute;
+    align-items: flex-start;
+    border-color: transparent;
+    justify-content: center;
+  }
+  .menu-text13 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 60px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lancelot;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .menu-group53 {
+    top: 571px;
+    left: 582px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-group44 {
+    top: 0px;
+    left: 0px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-group54 {
+    top: 0px;
+    left: 0px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-group63 {
+    top: 0px;
+    left: 0px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-frame34 {
+    top: 0px;
+    left: 0px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(143, 42, 20, 1);
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 40px 0 0 20px;
+  }
+  .menu-frame54 {
+    top: 230px;
+    left: 49px;
+    width: 73px;
+    height: 116px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .menu-frame44 {
+    top: 21.240966796875px;
+    left: 50.858154296875px;
+    width: 339.6606750488281px;
+    height: 158.07228088378906px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(143, 20, 20, 1);
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 40px 0 0 20px;
+  }
+  .menu-frame73 {
+    top: 8px;
+    left: 25px;
+    width: 300px;
+    display: flex;
+    padding: 10px;
+    position: absolute;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .menu-text17 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 60px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lancelot;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .menu-group64 {
+    top: 1040px;
+    left: 590px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-group45 {
+    top: 0px;
+    left: 0px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-group55 {
+    top: 0px;
+    left: 0px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-group65 {
+    top: 0px;
+    left: 0px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-frame35 {
+    top: 0px;
+    left: 0px;
+    width: 455px;
+    height: 205px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(143, 42, 20, 1);
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 40px 0 0 20px;
+  }
+  .menu-frame55 {
+    top: 230px;
+    left: 49px;
+    width: 73px;
+    height: 116px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .menu-frame45 {
+    top: 21.240966796875px;
+    left: 50.858154296875px;
+    width: 339.6606750488281px;
+    height: 158.07228088378906px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(143, 20, 20, 1);
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 40px 0 0 20px;
+  }
+  .menu-frame74 {
+    top: 8px;
+    left: 25px;
+    width: 291px;
+    display: flex;
+    padding: 10px;
+    position: absolute;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .menu-text22 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 60px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lancelot;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .menu-group13 {
+    top: 1488px;
+    left: 582px;
+    width: 532px;
+    height: 230px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-group12 {
+    top: 0px;
+    left: 0px;
+    width: 532px;
+    height: 230px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .menu-frame36 {
+    top: 0px;
+    left: 0px;
+    width: 532px;
+    height: 230px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(27, 6, 6, 1);
+    border-style: solid;
+    border-width: 25px;
+    border-radius: 40px 0 0 20px;
+    background-color: rgba(94, 5, 5, 1);
+  }
+  .menu-frame56 {
+    top: 230px;
+    left: 49px;
+    width: 73px;
+    height: 116px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .menu-frame46 {
+    top: 5px;
+    left: 34px;
+    width: 556px;
+    height: 230px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(15, 1, 1, 1);
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 40px 0 0 20px;
+  }
+  .menu-text29 {
+    top: 47px;
+    left: 42.5px;
+    color: rgba(255, 255, 255, 1);
+    width: 398px;
+    height: auto;
+    position: absolute;
+    font-size: 120px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Lancelot;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  @media(max-width: 479px) {
+    .menu-frame1 {
+      flex: 1;
+      left: -11px;
+      width: 100%;
+      bottom: -36px;
+      height: 100%;
+      position: absolute;
+    }
+    .menu-frame2 {
+      top: 1px;
+      flex: 1;
+      left: 7px;
+      width: 424px;
+      height: 2348px;
+      align-items: flex-start;
+      justify-content: flex-start;
+    }
+    .menu-group2 {
+      width: 395px;
+      height: 237px;
+    }
+    .menu-frame3 {
+      top: 21px;
+      left: -34px;
+      width: 444px;
+      height: 269px;
+      flex-wrap: wrap;
+      align-items: flex-start;
+      padding-left: 398px;
+      justify-content: flex-start;
+    }
+    .menu-frame4 {
+      top: 56px;
+      left: 2px;
+      width: 362px;
+      height: 168px;
+      padding-left: 128px;
+    }
+    .menu-text {
+      color: rgb(255, 255, 255);
+      right: -91px;
+      width: 100%;
+      bottom: -56px;
+      height: 100%;
+      font-size: 75px;
+      font-family: Lancelot;
+      font-weight: 400;
+      line-height: normal;
+      text-decoration: none;
+    }
+    .menu-text01 {
+      font-size: 30px;
+    }
+    .menu-frame31 {
+      width: 407px;
+      height: 204px;
+    }
+    .menu-frame32 {
+      top: -11px;
+      left: -6px;
+      width: 393px;
+    }
+    .menu-frame42 {
+      top: 13px;
+      left: 19px;
+    }
+    .menu-group42 {
+      width: 392px;
+    }
+    .menu-frame33 {
+      top: -16px;
+      left: -24px;
+      width: 409px;
+      height: 197px;
+    }
+    .menu-frame43 {
+      top: 2px;
+      left: 8px;
+      width: 324px;
+      height: 150px;
+    }
+    .menu-text13 {
+      color: rgb(255, 255, 255);
+      font-size: 60px;
+      font-family: Lancelot;
+      font-weight: 400;
+      line-height: normal;
+      text-decoration: none;
+    }
+    .menu-text14 {
+      font-size: 50px;
+    }
+    .menu-text15 {
+      font-size: 50px;
+    }
+  }
+  
