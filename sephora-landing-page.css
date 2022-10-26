@@ -1,0 +1,234 @@
+.sephora-landing-page-sephora-landing-page {
+    width: 100%;
+    height: 926px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .sephora-landing-page-frame2 {
+    top: 201px;
+    left: 128px;
+    width: 84px;
+    height: 62px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .sephora-landing-page-frame4 {
+    top: 22px;
+    left: 15px;
+    width: 85px;
+    height: 79px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .sephora-landing-page-black-background {
+    top: 116px;
+    left: -12px;
+    width: 429px;
+    height: 788px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(23, 19, 19, 1);
+  }
+  .sephora-landing-page-can-spam {
+    top: 652px;
+    left: 23px;
+    width: 251px;
+    display: flex;
+    padding: 17px 27px;
+    position: absolute;
+    align-items: flex-start;
+    border-color: transparent;
+    background-color: rgba(23, 19, 19, 1);
+  }
+  .sephora-landing-page-text {
+    color: rgba(255, 255, 255, 0.699999988079071);
+    height: auto;
+    font-size: 12px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .sephora-landing-page-frame7 {
+    top: 63px;
+    left: 72px;
+    width: 310px;
+    height: 217px;
+    display: flex;
+    position: absolute;
+    align-items: flex-end;
+    border-color: transparent;
+  }
+  .sephora-landing-page-frame5 {
+    top: 0px;
+    left: 0px;
+    width: 310px;
+    display: flex;
+    padding: 10px;
+    position: absolute;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .sephora-landing-page-text05 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    opacity: 0.75;
+    font-size: 35px;
+    align-self: auto;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .sephora-landing-page-button {
+    top: 163px;
+    left: 157px;
+    width: 153px;
+    height: 54px;
+    display: flex;
+    opacity: 0.75;
+    padding: 15px 24px;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 4px;
+    flex-direction: column;
+    background-color: rgba(175, 25, 37, 1);
+  }
+  .sephora-landing-page-group1 {
+    width: 107px;
+    height: 27px;
+    display: flex;
+    padding: 0;
+    position: relative;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .sephora-landing-page-text10 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sephora-landing-page-image3 {
+    top: 0px;
+    left: 0px;
+    width: 429px;
+    height: 138px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .sephora-landing-page-lip-image {
+    top: 12px;
+    left: 193px;
+    width: 216px;
+    height: 151px;
+    display: flex;
+    opacity: 0.75;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .sephora-landing-page-lipstick {
+    top: 363px;
+    left: 52.8568115234375px;
+    width: 185.195068359375px;
+    height: 319.37896728515625px;
+    display: flex;
+    opacity: 0.75;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .sephora-landing-page-frame1 {
+    top: 1.4314137473141955px;
+    left: 45.86947119699617px;
+    width: 122.75527954101562px;
+    height: 218.3744659423828px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .sephora-landing-page-image2 {
+    top: 17.47320985414831px;
+    left: -0.5452906528246118px;
+    width: 180px;
+    height: 302px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .sephora-landing-page-logo {
+    top: -7px;
+    left: -3px;
+    width: 112px;
+    height: 76px;
+    opacity: 0.75;
+    position: absolute;
+    border-color: transparent;
+    border-radius: 10px;
+  }
+  
